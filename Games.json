@@ -1,0 +1,68 @@
+{
+  "games": [
+    {
+      "Name": "Mannequin",
+      "Pic": "https://img.itch.zone/aW1nLzEyMDIwMDA1LnBuZw==/315x250%23c/1zqVsb.png",
+      "Tag": "Horror",
+      "About": "เกมผี",
+      "Rate": 5,
+      "Status": "ADVICE",
+      "id": 1
+    },
+    {
+      "Name": "BROKEN THROUGH",
+      "Pic": "https://img.itch.zone/aW1nLzkzNTUwMTMucG5n/315x250%23c/u8t5MH.png",
+      "Tag": "Horror",
+      "About": "เกมผีสนุกสุดๆ",
+      "Rate": 0,
+      "Status": "NONE",
+      "id": 2
+    },
+    {
+      "Name": "Mr. Lupin",
+      "Pic": "https://img.itch.zone/aW1nLzEzMzgwOTAzLnBuZw==/315x250%23c/h3AiJ3.png",
+      "Tag": "Horror",
+      "About": "On a wonderful winter night, the moonlight bathes the silent streets, your own footsteps echoing softly. But wait... did you just hear someone whispering your name?",
+      "Rate": 2,
+      "Status": "NONE",
+      "id": 3
+    },
+    {
+      "Name": "The Final Pin",
+      "Pic": "https://img.itch.zone/aW1nLzExNjQzNzE4LmdpZg==/315x250%23cm/pUS2b0.gif",
+      "Tag": "Adventure",
+      "About": "THE FINAL PIN\n\"The Final Pin\" is a full length story based game with voice acting and horror elements that will keep you on the edge of your seat. \n\nYou'll need to use your investigative skills and survival instincts to navigate the treacherous world of the crow killer and uncover the truth behind the town's dark past.\n\n Each step you take is a closer step into the darkness.",
+      "Rate": 0,
+      "Status": "ADVICE",
+      "id": 4
+    },
+    {
+      "Name": "Pumpkin Panic",
+      "Pic": "https://img.itch.zone/aW1nLzEyNjExOTM0LmdpZg==/315x250%23cm/dxiV8r.gif",
+      "Tag": "Survival",
+      "About": "COME TO THIS COZY FARM!\nExplore this little farm in the middle of the forest, plant crops, take care of the plants, go fishing, or whatever you prefer, but have a good time!\n\nBut be carefull, they say that strange things are happening in the area...",
+      "Rate": 3,
+      "Status": "ADVICE",
+      "id": 5
+    },
+    {
+      "Name": "The Lies We Tell Ourselves - Demo",
+      "Pic": "https://img.itch.zone/aW1nLzEzNTMwOTczLnBuZw==/315x250%23c/25CgrU.png",
+      "Tag": "Adventure",
+      "About": "A SUPERNATURAL STORY OF CHANCE...\nIn this captivating tale, you'll step into the shoes of Vincent Arno, a young man who has consciously embraced a life of comfort and convenience. Shielded by the sanctuary of his parents' home, Vincent drifts through each day, unburdened by responsibilities or aspirations.\nYet, beneath a surface of self-proclaimed goodness, Vincent's indifference to his own stagnant existence begins to crumble when a mysterious presence starts questioning his true nature.\n",
+      "Rate": 0,
+      "Status": "NONE",
+      "id": 6
+    },
+    {
+      "Name": "LAUGHTER IN THE FOREST 2",
+      "Pic": "https://img.itch.zone/aW1nLzEzNjA2Nzk2LnBuZw==/315x250%23c/0J1X3L.png",
+      "Tag": "Horror",
+      "About": "LAUGHTER IN THE FOREST 2 is a continuation of a short horror game that has gathered a large number of people around it, a new part can immerse you in a completely new atmosphere and give a lot of emotions. The game can be played on 3 endings.",
+      "Rate": 0,
+      "Status": "NONE",
+      "id": 7
+    }
+  ]
+
+}
